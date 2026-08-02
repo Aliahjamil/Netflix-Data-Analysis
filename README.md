@@ -161,5 +161,3 @@ Open `Netflix_Movie_Data_Analysis.ipynb` and run all cells.
 ## 👩‍💻 Author
 
 **Aliah Jamil**
-
-⭐ If you found this project helpful, consider giving the repository a star!
